@@ -113,5 +113,4 @@ Feel free to contribute and enhance the functionality of A.L.I.C.E.!
 
 ## Project Credits
 
-Mehul S. Katwe: https://www.linkedin.com/in/mehul-katwe-746439285
 Rafan R. Nadiadwala: https://www.linkedin.com/in/rafan-nadiadwala-062b70262

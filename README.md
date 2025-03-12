@@ -113,4 +113,4 @@ Feel free to contribute and enhance the functionality of A.L.I.C.E.!
 
 ## Project Credits
 
-Rafan R. Nadiadwala: https://www.linkedin.com/in/rafan-nadiadwala-062b70262
+Arfan Pathan: https://www.linkedin.com/in/arfan-pathan-82aab2312/
